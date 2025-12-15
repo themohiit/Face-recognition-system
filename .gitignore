@@ -1,0 +1,10 @@
+# Ignore the virtual environment
+.venv/
+venv/
+__pycache__/
+
+# Ignore specific sensitive files
+serviceAccountKey.json
+
+# Ignore system files
+.DS_Store
