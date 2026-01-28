@@ -29,7 +29,7 @@ data = {
          },
     "89786" :
         {"name" : "Khushi Sharma ",
-         "major":"too sexy",
+         "major":"Non med",
          "starting_year":2023,
          "total_attendence":5,
          "standing":"G",
@@ -74,7 +74,7 @@ data = {
          },
     "10876" :
         {"name" : "Renu devi",
-         "major":"Kichen",
+         "major":"Ml",
          "starting_year":2021,
          "total_attendence":5,
          "standing":"G",
@@ -91,8 +91,8 @@ data = {
          "last_attendance_time":"2025-12-14 09:04:54"
          },
     "65456" :
-        {"name" : "Pinki padodi",
-         "major":"Kichen",
+        {"name" : "Pinki",
+         "major":"Ai",
          "starting_year":2021,
          "total_attendence":5,
          "standing":"G",
